@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Aika
+## Hi there 👋, I'm Aika
 
 DevSecOps | SRE | Cloud Engineer
 
