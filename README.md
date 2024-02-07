@@ -2,9 +2,6 @@
 
 DevSecOps | SRE | Cloud Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
-
-
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.\
 - 💻 I’m currently working as a DevSecOps Engineer at Google.\
 - 🎓 I'm studying Cybersecurity and Information Assurance at the Western Governors University.\
