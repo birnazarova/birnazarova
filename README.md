@@ -18,4 +18,5 @@ DevSecOps | SRE | Cloud Engineer
 - **Monitoring:** ![Prometheus](https://img.shields.io/badge/Prometheus-y?style=flat&logo=prometheus&color=05122A) ![Grafana](https://img.shields.io/badge/Grafana-y?style=flat&logo=grafana&color=05122A) ![Datadog](https://img.shields.io/badge/Datadog-y?style=flat&logo=datadog&color=05122A) ![New Relic](https://img.shields.io/badge/New%20Relic-y?style=flat&logo=newrelic&color=05122A)
 - **Security:** ![Qualys](https://img.shields.io/badge/Qualys-y?style=flat&logo=qualys&color=05122A) ![Snyk](https://img.shields.io/badge/Snyk-y?style=flat&logo=snyk&color=05122A) ![Sonarqube](https://img.shields.io/badge/SonarQube-y?style=flat&logo=sonarqube&color=05122A)
 
+---
 Last Edited on: 02/07/2024
