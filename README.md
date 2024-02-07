@@ -22,7 +22,7 @@ DevSecOps | SRE | Cloud Engineer
 
 ### 🤝🏻 Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/birnazarova/"><img src="https://img.shields.io/badge/-Aika%20Birnazarova%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:birnazarova@gmail.com"><img src="https://img.shields.io/badge/-birnazarova@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
