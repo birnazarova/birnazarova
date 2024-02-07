@@ -10,7 +10,7 @@ DevSecOps | SRE | Cloud Engineer
 
 ### 🛠 Tech Stack
 
-OS: ![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-y?style=flat&logo=ubuntu&color=05122A) ![Linux RHEL](https://img.shields.io/badge/Linux_RHEL-y?style=flat&logo=redhat&color=05122A) ![Linux CentOS](https://img.shields.io/badge/Linux_CentOS-y?style=flat&logo=centos&color=05122A)
+- **OS:** ![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-y?style=flat&logo=ubuntu&color=05122A) ![Linux RHEL](https://img.shields.io/badge/Linux_RHEL-y?style=flat&logo=redhat&color=05122A) ![Linux CentOS](https://img.shields.io/badge/Linux_CentOS-y?style=flat&logo=centos&color=05122A)
 Containers: Docker, Kubernetes, Helm Charts, Replicated
 CI/CD: GitHub Actions, ArgoCD, Jenkins, GitLab CI
 IaC: Terraform
