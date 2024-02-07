@@ -10,9 +10,19 @@ DevSecOps | SRE | Cloud Engineer
 
 ### 🛠 Tech Stack
 
+OS: ![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-y?style=flat&logo=ubuntu&color=05122A) ![Linux RHEL](https://img.shields.io/badge/Linux_RHEL-y?style=flat&logo=redhat&color=05122A) ![Linux CentOS](https://img.shields.io/badge/Linux_CentOS-y?style=flat&logo=centos&color=05122A)
+Containers: Docker, Kubernetes, Helm Charts, Replicated
+CI/CD: GitHub Actions, ArgoCD, Jenkins, GitLab CI
+IaC: Terraform
+Cloud: AWS (EC2, VPC, IAM, S3, EKS, RDS), GCP (GKE, GCE, VPC, Cloud Storage, Cloud Functions, Cloud SQL) 
+Monitoring: Prometheus, Grafana, Alertmanager, Datadog, Honeycomb, New Relic
+Security: Qualys, Conmon, Snyk, Kubescape, Sonarqube
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-y?style=flat&logo=kubernetes&color=05122A)
 ![Amazon Web Services](https://img.shields.io/badge/AWS-y?style=flat&logo=amazonaws&color=05122A)
-![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-y?style=flat&logo=googlecloud&color=05122A)&nbsp;
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-y?style=flat&logo=googlecloud&color=05122A)
+
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
