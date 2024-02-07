@@ -1,12 +1,13 @@
-## Hi there 👋, I'm Aika
+# Hi there 👋, I'm Aika
 
-DevSecOps | SRE | Cloud Engineer
+DevSecOps | SRE | Cloud Engineer based in US
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 💻 I’m currently working as a DevSecOps Engineer at Google.
 - 🎓 I'm studying Cybersecurity and Information Assurance at Western Governors University.
 - 🤖 I'm on track for learning more about Artificial Intelligence.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/birnazarova/"><img src="https://img.shields.io/badge/-Aika%20Birnazarova%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+- ⚡ Fun fact: I am a HUGE Harry Potter Fan. Proud to be a Slytherin!
 
 ### 🛠 Tech Stack
 
