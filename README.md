@@ -11,14 +11,14 @@ DevSecOps | SRE | Cloud Engineer
 ### 🛠 Tech Stack
 
 - **OS:** ![Linux Ubuntu](https://img.shields.io/badge/Linux_Ubuntu-y?style=flat&logo=ubuntu&color=05122A) ![Linux RHEL](https://img.shields.io/badge/Linux_RHEL-y?style=flat&logo=redhat&color=05122A) ![Linux CentOS](https://img.shields.io/badge/Linux_CentOS-y?style=flat&logo=centos&color=05122A)
-Containers: Docker, Kubernetes, Helm Charts, Replicated
-CI/CD: GitHub Actions, ArgoCD, Jenkins, GitLab CI
-IaC: Terraform
-Cloud: AWS (EC2, VPC, IAM, S3, EKS, RDS), GCP (GKE, GCE, VPC, Cloud Storage, Cloud Functions, Cloud SQL) 
-Monitoring: Prometheus, Grafana, Alertmanager, Datadog, Honeycomb, New Relic
-Security: Qualys, Conmon, Snyk, Kubescape, Sonarqube
+- **Containers:** ![Docker](https://img.shields.io/badge/Docker-y?style=flat&logo=docker&color=05122A) ![Kubernetes](https://img.shields.io/badge/Kubernetes-y?style=flat&logo=kubernetes&color=05122A) ![Helm](https://img.shields.io/badge/Helm-y?style=flat&logo=helm&color=05122A)
+- **CI/CD:** ![GitHub Actions](https://img.shields.io/badge/Github%20Actions-y?style=flat&logo=githubactions&color=05122A) ![ArgoCD](https://img.shields.io/badge/ArgoCD-y?style=flat&logo=argo&color=05122A) ![Jenkins](https://img.shields.io/badge/Jenkins-y?style=flat&logo=jenkins&color=05122A) ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-y?style=flat&logo=gitlab&color=05122A)
+- **IaC:** Terraform
+- **Cloud:** AWS (EC2, VPC, IAM, S3, EKS, RDS), GCP (GKE, GCE, VPC, Cloud Storage, Cloud Functions, Cloud SQL) 
+- **Monitoring:** Prometheus, Grafana, Alertmanager, Datadog, Honeycomb, New Relic
+- **Security:** Qualys, Conmon, Snyk, Kubescape, Sonarqube
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-y?style=flat&logo=kubernetes&color=05122A)
+![Kubernetes]()
 ![Amazon Web Services](https://img.shields.io/badge/AWS-y?style=flat&logo=amazonaws&color=05122A)
 ![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-y?style=flat&logo=googlecloud&color=05122A)
 
