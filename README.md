@@ -10,8 +10,9 @@ DevSecOps | SRE | Cloud Engineer
 
 ### 🛠 Tech Stack
 
-![Kubernetes](https://img.shields.io/badge/kubernetes-blue?logo=kubernetes&color=white)&nbsp;
-![Amazon Web Services](https://img.shields.io/badge/AWS-yellow?logo=amazonaws&color=orange)&nbsp;
+![Kubernetes](https://img.shields.io/badge/Kubernetes-y?style=flat&logo=kubernetes&color=05122A)&nbsp;
+![Amazon Web Services](https://img.shields.io/badge/AWS-y?style=flat&logo=amazonaws&color=05122A)&nbsp;
+![Google Cloud Platform](https://img.shields.io/badge/Google%20Cloud%20Platform-y?style=flat&logo=googlecloud&color=05122A)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
