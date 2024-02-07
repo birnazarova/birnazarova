@@ -6,7 +6,7 @@ DevSecOps | SRE | Cloud Engineer
 - 💻 I’m currently working as a DevSecOps Engineer at Google.
 - 🎓 I'm studying Cybersecurity and Information Assurance at the Western Governors University.
 - 🤖 I'm on track for learning more about Artificial Intelligence.
-- 📫 How to reach me: <a href="mailto:birnazarova@gmail.com"><img src="https://img.shields.io/badge/-birnazarova@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>, <a href="https://www.linkedin.com/in/birnazarova/"><img src="https://img.shields.io/badge/-Aika%20Birnazarova%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+- 📫 How to reach me: <a href="mailto:birnazarova@gmail.com"><img src="https://img.shields.io/badge/-birnazarova@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/birnazarova/"><img src="https://img.shields.io/badge/-Aika%20Birnazarova%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 Tech Stack
 
